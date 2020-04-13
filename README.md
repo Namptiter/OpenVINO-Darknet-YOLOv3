@@ -7,7 +7,7 @@
 #### Tensorflow converter: https://github.com/mystic123/tensorflow-yolo-v3
 #### My blog: https://ptitdeveloper.com/
 ## Configuration
-### Full configuration guide: https://ptitdevdeloper.com/blog/openvino-toi-uu-hoa-hieu-suat-model-darknet-yolov3/
+### Full configuration guide: https://ptitdeveloper.com/blog/openvino-toi-uu-hoa-hieu-suat-model-darknet-yolov3/
 ```bash
 source  /opt/intel/openvino_2020.1.023/bin/setupvars.sh
 cd /home/$USER/Desktop
