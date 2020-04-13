@@ -1,11 +1,11 @@
 # OpenVINO-Darknet-YOLOv3
-OpenVINO toolkit: tối đa hóa hiệu suất xử lí model Darknet-YOLOv3
-OpenVINO toolkit: maximizing performance YOLOv3 tiny model workloads across Intel® hardware
+##### OpenVINO toolkit: tối đa hóa hiệu suất xử lí model Darknet-YOLOv3
+##### OpenVINO toolkit: maximizing performance YOLOv3 tiny model workloads across Intel® hardware
 ## Resource & Reference:
-Intel OpenVINO™: https://software.intel.com/en-us/openvino-toolkit
-YOLOv3 Darket: https://pjreddie.com/darknet/
-Tensorflow converter: https://github.com/mystic123/tensorflow-yolo-v3
-My blog: https://ptitdeveloper.com/
+#### Intel OpenVINO™: https://software.intel.com/en-us/openvino-toolkit
+#### YOLOv3 Darket: https://pjreddie.com/darknet/
+#### Tensorflow converter: https://github.com/mystic123/tensorflow-yolo-v3
+#### My blog: https://ptitdeveloper.com/
 ## Configuration
 ### Full configuration guide: https://ptitdevdeloper.com/blog/openvino-toi-uu-hoa-hieu-suat-model-darknet-yolov3/
 ```bash
